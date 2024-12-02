@@ -29,3 +29,11 @@ sudo chmod +x filename.sh
 #or
 bash filename.sh
 ```
+
+## multiline comments
+```bash
+<<<comment
+this is multiline 
+comment
+```
+start and end of the comments word will be same
