@@ -14,9 +14,7 @@ It is the collection of commands which run sequentially.Is a utility that provid
 ```bash
 echo $0
 ```
-*hint*:How to write shell script?
-
-<start first line with>
+*hint*:How to write shell script? Start first line of your shell script always with shebang (or hashbang)
 ```bash
 #!/bin/bash 
 ```
