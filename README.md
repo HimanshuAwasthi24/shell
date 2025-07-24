@@ -40,4 +40,4 @@ start and end of the comments word will be same
 
 ## Access Files from here
 
-- [`myproject.sh`](first_script)
+- [`first_project`](script.sh) - First script for project
