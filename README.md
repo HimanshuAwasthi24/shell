@@ -38,10 +38,6 @@ comment
 ```
 start and end of the comments word will be same
 
-## constant variables
-```bash
-readonly var_name="test"
-echo "I'm $var_name"
-redefined_var="test1"
-echo "I'm $redefined_var"
-```
+## Access Files from here
+
+- [`myproject.sh`](first_script)
