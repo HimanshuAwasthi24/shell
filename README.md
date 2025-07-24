@@ -40,4 +40,4 @@ start and end of the comments word will be same
 
 ## Access Files from here
 
-- [`first_project`](script.sh) - First script for project
+- [`Conditions`](if_else.sh) - First script for project for setting up 'htop' in Debian based machines
