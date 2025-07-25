@@ -40,4 +40,5 @@ start and end of the comments word will be same
 
 ## Access Files from here
 
-- [`Conditions`](if_else.sh) - First script for project for setting up 'htop' in Debian based machines
+- [`Conditions`](if_else.sh) - script for project for setting up 'htop' in Debian based machines
+- [`Exit Codes`](exit_code.sh) - nginx status using exit codes

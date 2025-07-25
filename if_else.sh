@@ -1,5 +1,5 @@
 #!/bin/bash
-value = "htop"
+value=htop
 if command -v $value
 then
     echo "$value is present"
